@@ -17,3 +17,5 @@ Our solution allows user to share the symptom that they are feeling and based on
 
 # How our solution is providing patient support for managing diseases and getting right access to health care?
 Our prepare Deep Learning Model is doing both in combined way it not only detects the problem the user have but also shares the suggestion for instant cure of disease. Otherwise user can directly contact to support team more help.
+# For more infomation you can see the master branch of this project it is containing the WorkingProject.mp4 video which states how my project works
+# !! thanks
