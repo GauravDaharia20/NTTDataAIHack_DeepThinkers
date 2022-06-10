@@ -1,4 +1,5 @@
 # NTTDataAIHack_DeepThinkers
+# please go to master branch for project access.
 # Problem Statement
 There is a lot of physical problem faced by people during this pandemic, so there is a need of solution where people don’t have to go any where and they can get instant solution for the problem like disease from which they are suffering.
 We Team Deep thinkers have developed platform for people by using which they can know from which disease they are suffering and what is the cure of it.
